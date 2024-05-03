@@ -21,9 +21,10 @@ void addNode() {
 
 
 	//insert the new node in the list
-}
+	if (START == NULL || newNode->noMhs <= START->noMhs) { //step 2 insert to the new node
 
-int main()
+	}
+
 {
 
 }
