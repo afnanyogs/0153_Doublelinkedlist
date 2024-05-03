@@ -42,8 +42,8 @@ void addNode() {
 		Node* previous = NULL;   //step 1.b: previous node is null initially
 
 
-		
-		
+		while (current != NULL && current->noMhs < newNode->noMhs) {   //step 1.c: traverse the list to find the correct possition
+		}
 	}
 }
 
